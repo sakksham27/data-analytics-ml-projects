@@ -1,2 +1,2 @@
-# machine_learning_projects
-This repository will be dedicated to machine learning projects.
+# data-analytics-ml-projects
+This repository will be dedicated to EDA and machine learning projects.
